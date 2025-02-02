@@ -1,7 +1,7 @@
 ## 🚀 About Me:
-  🎓 I'm a 4th-year Computer Science Student.
-  💼 Currently looking for a Software Developer Internship.
-  📊 I'm currently learning ReactJS combined with TailwindCSS.
+🎓 I'm a 4th-year Computer Science Student.
+💼 Currently looking for a Software Developer Internship.
+📊 I'm currently learning ReactJS combined with TailwindCSS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpmaradev/)
