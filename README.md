@@ -1,6 +1,6 @@
 ## 🚀 About Me:
 - 🎓 I'm a 4th-year Computer Science Student.
-- 💼 Currently looking for a Software Developer Internship.
+- 💼 Currently looking for a Software Development Internship.
 - 📊 I'm currently learning ReactJS combined with TailwindCSS.
 
 ## 🌐 Socials:
