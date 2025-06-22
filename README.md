@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Full+Stack+Developer+%7C+CS+Graduate;React+%2F+Tailwind+%2F+Django+Enthusiast;Passionate+about+Learning+and+Building" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Computer+Science+Graduate;Aspiring+Full+Stack+Developer;Passionate+about+Learning+New+Technologies;Building+Clean+and+Responsive+Web+Apps)](https://git.io/typing-svg)
 </p>
 
 ## 🚀 About Me:
