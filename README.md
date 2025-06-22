@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc7303,100:ffb347&height=200&section=header&text=Hi%20There!%20I'm%20John%20Patrick%20Marasigan%20👨‍💻&fontSize=30&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Developer;I+am+a+Computer+Science+Graduate;Passionate+about+Learning+New+Technologies)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Full+Stack+Developer;I+am+a+Computer+Science+Graduate;Passionate+about+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
 - 🎓 I'm a recent Computer Science graduate.
