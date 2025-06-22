@@ -1,5 +1,10 @@
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc7303,100:ffb347&height=200&section=header&text=Hi%20There!%20I'm%20John%20Patrick%20Marasigan%20👨‍💻&fontSize=30&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Full+Stack+Developer+%7C+CS+Graduate;React+%2F+Tailwind+%2F+Django+Enthusiast;Passionate+about+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me:
@@ -43,7 +48,7 @@
 <h2>🔧 Version Control & DevOps</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
 </p>
 <br>
