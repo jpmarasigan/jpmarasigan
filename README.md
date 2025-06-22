@@ -19,7 +19,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300aaff.svg?&logo=portfolio&logoColor=white)](https://personal-portfolio-orcin-two.vercel.app)
 
 
-<h2>Front-End</h2>
+## 🛠️ Tech Stack
+<h3>Front-End</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
@@ -31,7 +32,7 @@
 </p>
 <br>
 
-<h2>Back-End & Frameworks</h2>
+<h3>Back-End & Frameworks</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
@@ -41,7 +42,7 @@
 </p>
 <br>
 
-<h2>🗄️ Databases & Hosting</h2>
+<h3>🗄️ Databases & Hosting</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="MariaDB" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
@@ -52,7 +53,7 @@
 </p>
 <br>
 
-<h2>Version Control & DevOps</h2>
+<h3>Version Control & DevOps</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
@@ -60,14 +61,14 @@
 </p>
 <br>
 
-<h2>Design & Prototyping</h2>
+<h3>Design & Prototyping</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45"/>
 </p>
 <br>
 
-<h2>Tools & Platforms</h2>
+<h3>Tools & Platforms</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
