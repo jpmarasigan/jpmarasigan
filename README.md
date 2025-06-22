@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ## 🚀 About Me:
 - 🎓 I'm a 4th-year Computer Science Student.
 - 💼 Currently looking for a Software Development Internship.
