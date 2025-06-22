@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpmaradev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300aaff.svg?&logo=portfolio&logoColor=white)](https://personal-portfolio-orcin-two.vercel.app)
-
+<br><br>
 
 ## 🛠️ Tech Stack
 <h3>Front-End</h3>
